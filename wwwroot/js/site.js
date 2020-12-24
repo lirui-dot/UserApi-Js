@@ -315,7 +315,7 @@ function Personal() {
         PassWord: passWord.value.trim(),
         Gender: value,
         Age: age.value.trim(),
-        Provinces: Pvalue,
+        Province: Pvalue,
         City: Cvalue,
         Url: url.value.trim(),
         Image: img.src
