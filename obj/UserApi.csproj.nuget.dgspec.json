@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\new vs code\\UserApiJs\\UserApi.csproj": {}
+    "E:\\new vs code\\UserApiJs bootstrap\\UserApi.csproj": {}
   },
   "projects": {
-    "E:\\new vs code\\UserApiJs\\UserApi.csproj": {
+    "E:\\new vs code\\UserApiJs bootstrap\\UserApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\new vs code\\UserApiJs\\UserApi.csproj",
+        "projectUniqueName": "E:\\new vs code\\UserApiJs bootstrap\\UserApi.csproj",
         "projectName": "UserApi",
-        "projectPath": "E:\\new vs code\\UserApiJs\\UserApi.csproj",
+        "projectPath": "E:\\new vs code\\UserApiJs bootstrap\\UserApi.csproj",
         "packagesPath": "C:\\Users\\lirui\\.nuget\\packages\\",
-        "outputPath": "E:\\new vs code\\UserApiJs\\obj\\",
+        "outputPath": "E:\\new vs code\\UserApiJs bootstrap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
